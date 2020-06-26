@@ -1,2 +1,2 @@
-# AnsibleAwx
-Ansible Awx
+# Ansible
+Ansible
